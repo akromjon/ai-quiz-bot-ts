@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@openai/openai": "npm:@jsr/openai__openai@^4.85.1",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "sqlite3": "^5.1.7",
     "typeorm": "^0.3.20"
